@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops, web
 - 🌱 I’m currently learning vue 3
 - 💞️ I’m looking to collaborate on devops
-- 📫 Reach me Wechat: yangeverx
+- 📫 Reach me Wechat: YangEverx
 
 <!---
 lgphone/lgphone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
